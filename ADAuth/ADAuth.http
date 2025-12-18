@@ -1,0 +1,6 @@
+@ADAuth_HostAddress = http://localhost:5038
+
+GET {{ADAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
